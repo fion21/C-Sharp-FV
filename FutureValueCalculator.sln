@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureValueCalculator", "FutureValueCalculator\FutureValueCalculator.csproj", "{23A54595-6C0E-478F-A76A-C764F73832FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A54595-6C0E-478F-A76A-C764F73832FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A54595-6C0E-478F-A76A-C764F73832FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A54595-6C0E-478F-A76A-C764F73832FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A54595-6C0E-478F-A76A-C764F73832FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F2772C-971A-4990-99E6-AFAF4686D231}
+	EndGlobalSection
+EndGlobal
